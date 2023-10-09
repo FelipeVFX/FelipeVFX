@@ -1,4 +1,4 @@
-### Olá! Eu sou felipe Alves ✋
+# Olá! Eu sou felipe Alves ✋
 
 ![FelipeVFX GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeVFX&show_icons=true&theme=radical)
 
@@ -14,3 +14,8 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
 
 ## Email de contato: fa6765387@gmail.com
+
+<h3>O que estou fazendo agora</h3>
+<p>
+  Eu neste momento estou criando um projeto em html, css e javascript para feita de projeto que terá em minha escola, na qual terei  que criar um site para o nosso grupo que foi dividido em dois
+</p>
